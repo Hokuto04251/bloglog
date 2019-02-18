@@ -1,0 +1,24 @@
+.brand-logo img {
+  margin: 2px 0 0 3px;
+  height: 60px;
+  width: 200px;
+  border-radius: 3px;
+}
+
+.nav-wrapper--under-space {
+width: 100%;
+height: 100px;
+}
+
+.card-image {
+height: 400px;
+overflow: hidden;
+}
+
+.material-icons {
+  z-index: 9999;
+}
+
+.card-content {
+  z-index: 50;
+}
